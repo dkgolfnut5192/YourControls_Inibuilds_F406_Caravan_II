@@ -7,8 +7,8 @@ Profile to work with YourControls application and MSFS2020. If you find any bugs
 
 # Version 0.1
   - KNOWN ISSUES in MSFS2020
-   - LEVERS, KNOBS, SWITCHES Using B EVENTS will not work 
-   - OXYGEN PULL, also switching GPS from EFB doesnt work.  please switch that manually. 
+   - LEVERS, KNOBS, SWITCHES Using B EVENTS will not work like the Oxygen Pull
+   - also switching GPS from EFB doesnt work.  please switch that manually. 
    - Pilot and FO Window handles not synched unless you use the EFB.
    - EFB functions for all Windows, Doors, Emergency Exit, Chocks, Pitot Covers and Engine covers are functional
 # FIXES
